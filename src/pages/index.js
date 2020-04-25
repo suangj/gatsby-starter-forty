@@ -17,7 +17,7 @@ class HomeIndex extends React.Component {
         return (
             <Layout>
                 <Helmet
-                    title="Gatsby Starter - Forty"
+                    title="FarAwayJob - Remote Jobs For You"
                     meta={[
                         { name: 'description', content: 'Sample' },
                         { name: 'keywords', content: 'sample, something' },
@@ -31,43 +31,54 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Aliquam</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>Online Marketing</h3>
+                                <p>Online Marketing is one of the most popular and varied career <br /> 
+                                   option these days, here you can find Jobs related to <br/>
+                                   affiliate marketing, inbound marketing, PPC and SEO.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>Tempus</h3>
-                                <p>feugiat amet tempus</p>
+                                <h3>Developer</h3>
+                                <p>This category is where a huge variety of highly-tech friendly <br />
+                                   jobs wait for you. Can include anything from software engineering <br />
+                                   to app development and web design.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Magna</h3>
-                                <p>Lorem etiam nullam</p>
+                                <h3>Designer</h3>
+                                <p>One of the most biggest career out there. High demand. A wide variety of Jobs <br />
+                                   ranging from graphic design to web design, to UX and UI desig and a lot more.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Ipsum</h3>
-                                <p>Nisl sed aliquam</p>
+                                <h3>Writer</h3>
+                                <p>Copywriting and blog writing are one of the most popular ways to get started <br />
+                                   with this career, also this is one of the best option if you're a traveler <br />
+                                   and like to share their experience and a lot more of writing oportunities.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
-                                <h3>Consequat</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>Customer Support</h3>
+                                <p>One of the most country flexible career, all you need to start is a <br />
+                                   laptop with internet conecction, chat and call software, and great <br /> 
+                                   Customer Service.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
-                                <h3>Etiam</h3>
-                                <p>Feugiat amet tempus</p>
+                                <h3>Data Entry</h3>
+                                <p>A high demand skill that keep growing everyday, is practical and <br />
+                                   let you work from almost anywhere with a pretty flex work flow. <br />
+                                   Jobs can vary from tracking inventory and shipment to plan creations.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
@@ -75,11 +86,12 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="major">
-                                <h2>Massa libero</h2>
+                                <h2>Find your dream job</h2>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+                            <p> These days, many companies are offering remote work opportunities, be it a virtual assistant <br /> 
+                                or a freelancer, a professional worker. It is your turn to work more comfortably, from your home!.</p>
                             <ul className="actions">
-                                <li><Link to="/landing" className="button next">Get Started</Link></li>
+                                <li><Link to="/landing" className="button next">Start here!</Link></li>
                             </ul>
                         </div>
                     </section>

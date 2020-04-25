@@ -88,7 +88,7 @@ class HomeIndex extends React.Component {
                             <header className="major">
                                 <h2>Find your dream job</h2>
                             </header>
-                            <p> These days, many companies are offering remote work opportunities, be it a virtual assistant <br /> 
+                            <p> These days many companies are offering remote jobs opportunities, be it a virtual assistant <br /> 
                                 or a freelancer, a professional worker. It is your turn to work more comfortably, from your home!.</p>
                             <ul className="actions">
                                 <li><Link to="/jobslist" className="button next">Start here!</Link></li>

@@ -17,7 +17,7 @@ class HomeIndex extends React.Component {
         return (
             <Layout>
                 <Helmet
-                    title="FarAwayJob - Remote Jobs For You"
+                    title="FarAwayJobs - Remote Jobs For You"
                     meta={[
                         { name: 'description', content: 'Sample' },
                         { name: 'keywords', content: 'sample, something' },

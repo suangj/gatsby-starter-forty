@@ -7,8 +7,9 @@ const Banner = (props) => (
                 <h1>Hi, we're FarAwayJobs</h1>
             </header>
             <div className="content">
-                <p>A Group of people trying to help you <br />
-                   get a nice remite job. Yes! That's posible!.</p>
+                <p>A Group of people trying to help you<br />
+                   get a nice remote job to take advantage of quarantine.<br />
+                   Yes! That's posible!.</p>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">Let's start</a></li>
                 </ul>

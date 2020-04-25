@@ -36,7 +36,7 @@ class HomeIndex extends React.Component {
                                    option these days, here you can find Jobs related to <br/>
                                    affiliate marketing, inbound marketing, PPC and SEO.</p>
                             </header>
-                            <Link to="/joblist" className="link primary"></Link>
+                            <Link to="/jobslist" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">

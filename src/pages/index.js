@@ -45,7 +45,7 @@ class HomeIndex extends React.Component {
                                    jobs wait for you. Can include anything from software engineering <br />
                                    to app development and web design.</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/jobslist" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
@@ -53,7 +53,7 @@ class HomeIndex extends React.Component {
                                 <p>One of the most biggest career out there. High demand. A wide variety of Jobs <br />
                                    ranging from graphic design to web design, to UX and UI desig and a lot more.</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/jobslist" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
@@ -62,7 +62,7 @@ class HomeIndex extends React.Component {
                                    with this career, also this is one of the best option if you're a traveler <br />
                                    and like to share their experience and a lot more of writing oportunities.</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/jobslist" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
@@ -71,7 +71,7 @@ class HomeIndex extends React.Component {
                                    laptop with internet conecction, chat and call software, and great <br /> 
                                    Customer Service.</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/jobslist" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
@@ -80,7 +80,7 @@ class HomeIndex extends React.Component {
                                    let you work from almost anywhere with a pretty flex work flow. <br />
                                    Jobs can vary from tracking inventory and shipment to plan creations.</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/jobslist" className="link primary"></Link>
                         </article>
                     </section>
                     <section id="two">
@@ -91,7 +91,7 @@ class HomeIndex extends React.Component {
                             <p> These days, many companies are offering remote work opportunities, be it a virtual assistant <br /> 
                                 or a freelancer, a professional worker. It is your turn to work more comfortably, from your home!.</p>
                             <ul className="actions">
-                                <li><Link to="/landing" className="button next">Start here!</Link></li>
+                                <li><Link to="/jobslist" className="button next">Start here!</Link></li>
                             </ul>
                         </div>
                     </section>

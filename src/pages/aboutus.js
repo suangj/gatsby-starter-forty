@@ -18,7 +18,7 @@ const Generic = (props) => (
                         <h1>About Us</h1>
                     </header>
                     <span className="image main"><img src={pic11} alt="" /></span>
-                    <p> Because we believe it is possible to have a full or part time job from home, yes, from the comfort of your living room you can acquire a decent salary while spending time with your family, pets or simply playing video games.
+                    <p> Because we believe it is possible to have a full or part time job from home, yes, from the comfort of your living room you can acquire a decent salary while spending time with your family, pets or simply playing video games.</br>
                         Tired of searching hours and hours for remote jobs?
                         Tired of your mailbox being filled with thousands of emails?
                         FarAwayJobs makes it simple, we search and select the best job offers in different careers just for you!

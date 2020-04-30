@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-import pic11 from '../assets/images/pic11.jpg'
+import pic13 from '../assets/images/pic13.jpg'
 
 const Generic = (props) => (
     <Layout>
@@ -17,7 +17,7 @@ const Generic = (props) => (
                     <header className="major">
                         <h1>About Us</h1>
                     </header>
-                    <span className="image main"><img src={pic11} alt="" /></span>
+                    <span className="image main"><img src={pic13} alt="" /></span>
                     <p> Because we believe it is possible to have a full or part time job from home, yes, from the comfort of your living room you can acquire a decent salary while spending time with your family, pets or simply playing video games.<br /></p>
                     
                     <p> Tired of searching hours and hours for remote jobs?<br />

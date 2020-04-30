@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-import pic11 from '../assets/images/pic11.jpg'
+import pic12 from '../assets/images/pic12.jpg'
 
 const Generic = (props) => (
     <Layout>
@@ -17,7 +17,7 @@ const Generic = (props) => (
                     <header className="major">
                         <h1>Disclaimer</h1>
                     </header>
-                    <span className="image main"><img src={pic11} alt="" /></span>
+                    <span className="image main"><img src={pic12} alt="" /></span>
                     
                     <p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at sunwright2110@gmail.com</p>
 

@@ -31,10 +31,10 @@ const Generic = (props) => (
                     <p> At FarAwayJobs we like to help everyone and we will help you find your dream job so that you can do it from the comfort of your home. <br /></p>
 
                     <p> <h2>Meet our team:</h2> <br /></p>
-                               <div>
-                                 <p><span className="image left"><img src={pic14} alt="" /></span>Hi, my name is Elliot I. Johnson and I'm 39 years old. I'm a software engeenier. I like to have free time to program and play video games. </p>
-                                 <p><span className="image right"><img src={pic15} alt="" /></span>Hello guys, my name is Gordon Palmer and I'm 35 years old. I'm excited about technology and helping people a lot. Marketing Online and World of Warcracft player most of the time. </p>
-                               </div>
+                            
+                                 <p><span className="image left"><img src={pic14} alt="" /></span>Hi, my name is Elliot I. Johnson and I'm 39 years old. I'm a software engeenier. I like to have free time to program and play video games. </p><br />
+                                 <p><span className="image right"><img src={pic15} alt="" /></span>Hello guys, my name is Gordon Palmer and I'm 35 years old. I'm excited about technology and helping people a lot. Marketing Online and World of Warcracft player most of the time. </p><br />                           
+                   
                     <p>We're high skilled people that want to help you to find a remote job and enjoy life more </p>
                
     

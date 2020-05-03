@@ -30,16 +30,16 @@ const Generic = (props) => (
 
                     <p> At FarAwayJobs we like to help everyone and we will help you find your dream job so that you can do it from the comfort of your home. <br /></p>
 
-                    <p> <h2>Meet our team:</h2> <br /></p>
+                    <p> <h2>Meet our team:</h2></p>
                             
-                                 <p><span className="image left"><img src={pic14} alt="Web Designer and Project Manager"/></span><h3>CEO and Project Manager</h3>Hi, my name is Elliot I. Johnson and I'm 39 years old. I'm a software engeenier. I like to have free time to program and play video games.I enjoy design and artificial intelligence. I read a lot and I'm always studying something.<br /></p>
+                                 <p><span className="image left"><img src={pic14} alt="Web Designer and Project Manager"/></span><h3>CEO and Project Manager</h3>Hi, my name is Elliot I. Johnson and I'm 39 years old. I'm a software engeenier. I like to have free time to program and play video games. I enjoy design and artificial intelligence. I read a lot and I'm always studying something.<br /></p>
                                  <p><span className="image right"><img src={pic15} alt="Marketing online"/></span><h3>Co-CEO and Marketing Online</h3> Hello guys, my name is Gordon Palmer and I'm 35 years old. I'm excited about technology and helping people a lot. Marketing Online and World of Warcracft player most of the time. <br /> </p>                          
                       
-                               <ul><p>Additional team members:</p>
+                               <br /><ul><h1>Additional team members:</h1>
                                             <li>4 freelancers</li>
                                             <li>1 Virtual Assistant</li>
                                             <li>1 Social Media Manager</li>
-                               </ul>
+                                      </ul>
                          
                     <p>We're high skilled people that want to help you to find a remote job and enjoy life more. </p>
                

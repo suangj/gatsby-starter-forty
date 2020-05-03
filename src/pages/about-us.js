@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-import pic13 from '../assets/images/pic13.jpeg'
+import pic13 from '../assets/images/pic13.webp'
 
 const Generic = (props) => (
     <Layout>

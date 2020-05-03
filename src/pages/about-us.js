@@ -32,7 +32,7 @@ const Generic = (props) => (
 
                     <p> <h2>Meet our team:</h2> <br /></p>
     
-                    <span className="image fit"><img src={pic014} alt="" /></span>
+                    <span className="image fit"><img src={pic14} alt="" /></span>
                     <div className="box">
                                     <p>Hi, my name is Elliot I. Johnson and I'm 39 years old. I'm a software engeenier. </p>
                                 </div>

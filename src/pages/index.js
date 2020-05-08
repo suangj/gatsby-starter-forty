@@ -36,7 +36,7 @@ class HomeIndex extends React.Component {
                                    option these days, here you can find Jobs related to <br/>
                                    affiliate marketing, inbound marketing, PPC and SEO.</p>
                             </header>
-                            <Link to="/marketing-job-list" className="link primary"></Link>
+                            <Link to="/job-list" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
@@ -53,7 +53,7 @@ class HomeIndex extends React.Component {
                                 <p>One of the most biggest career out there. High demand. A wide variety of Jobs <br />
                                    ranging from graphic design to web design, to UX and UI desig and a lot more.</p>
                             </header>
-                            <Link to="/marketing-job-list" className="link primary"></Link>
+                            <Link to="/job-list" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">

@@ -4,14 +4,13 @@ const BannerLanding = (props) => (
     <section id="banner" className="style2">
         <div className="inner">
             <header className="major">
-                <h1>Landing</h1>
+                <h1>Remote Online Marketing Jobs List</h1>
             </header>
             <div className="content">
-                <p>Lorem ipsum dolor sit amet nullam consequat<br />
-                sed veroeros. tempus adipiscing nulla.</p>
+                <p>We have a varied selection of the best job offers just for you.</p>
             </div>
         </div>
     </section>
 )
 
-export default BannerLanding
+export default ombanner

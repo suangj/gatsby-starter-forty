@@ -13,4 +13,4 @@ const BannerLanding = (props) => (
     </section>
 )
 
-export default ombanner
+export default BannerLanding

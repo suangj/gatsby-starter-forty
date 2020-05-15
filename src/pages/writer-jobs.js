@@ -11,7 +11,7 @@ import pic10 from '../assets/images/pic10.jpg'
 const Landing = (props) => (
     <Layout>
         <Helmet>
-            <title>Desginer Jobs</title>
+            <title>Writer Jobs</title>
             <meta name="description" content="Landing Page" />
         </Helmet>
 
@@ -21,89 +21,89 @@ const Landing = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h2>Designer Job List</h2>
+                        <h2>Writer Job List</h2>
                     </header>
                    </div>
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/graham-staffing-347efe14/web-designer-remote-opportunity-623b395c" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/akorbi-41e27098/tech-writer-369b0e87" className="image">
                         <img src={pic08} alt="" />
                      </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Web Designer - Remote Opportunity</h3>
+                                <h3>Tech Writer</h3>
                             </header>
-                               <h4>Graham Staffing (Alexandria, VA, USA)</h4><br />
-                               <p> Compensation <b>$17 to $18 Hourly</b><br />
-                                   Benefits Offered: <br />
-                                   Employment Type: Temporary<br />
+                               <h4>Akorbi (Mountain View, CA, USA)</h4><br />
+                               <p> Compensation <b>$50 to $65 Hourly</b><br />
+                                   Benefits Offered: 401K, Dental, Life, Medical, Vision<br />
+                                   Employment Type: Contractor<br />
                                  
-                                 Looking for a candidate to assist us remotely on the migration of our PTAKit.org website into our PTA.org domain.
+                                Exciting Technical Writer Opportunities in Mountain View, CA and NYC, NY
 
-                                 This role requires proficiency with writing CSS and HTML code. Familiarity with CMS systems are a plus (we use Sitefinity). The job includes layout, editing and styling of content.
+                                Pay Rate: $50-$65/ HR + Benefits
 
+                                Locations: MTV, CA & NYC, NY (Remote to start however must sit in one the locations offered)
 
-                                 Need to be familiar with Microsoft Teams and Zoom for video conferencing
+                                Position Description
+
+                                The right person for this role will have exceptional written English skills and the ability to draft clear and concise email communications to customers. They will be responsible for taking a sheet of technical facts about a product topic (examples: a breaking change, a mandatory upgrade, a billing issue, a product or API deprecation) and translating it into customer-centric and customer-friendly language. They will collaborate with the product, legal, support, and marketing teams to create a final communication that meets the expectations of both our customers and our internal stakeholders. The right candidate will also be comfortable with change and have the ability to adapt to shifting priorities.
                                </p>
                                   <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/graham-staffing-347efe14/web-designer-remote-opportunity-623b395c" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/akorbi-41e27098/tech-writer-369b0e87" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/cfs-technology-29b68b2a/ui-ux-designer-aaddf34c" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/della-infotech-inc-5d403f0f/technical-writer-with-medical-device-or-life-science-environment-b809b711" className="image">
                         <img src={pic09} alt="" />
                     </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>UI UX Designer</h3>
+                                <h3>Technical Writer with MEDICAL DEVICE (or) Life science environment</h3>
                             </header>
-                            <p> <h4>CFS - Technology (Portland, OR, USA)</h4><br />
-                                Compensation <b>$65,000 to $80,000 Annually</b><br />
-                                Benefits Offered: 401K, Dental, Life, Medical, Vision<br />
-                                Employment Type: Full-Time<br />
+                            <p> <h4>Della Infotech Inc. (Sunnyvale, CA, USA)</h4><br />
+                                Compensation <b>$37 to $38 Hourly</b><br />
+                                Benefits Offered: Medical<br />
+                                Employment Type: Contractor<br />
                                 
-                                SOFTWARE PRODUCT DESIGNER
+                                Job Title: Technical Writer II
+                                Department: Technical Publications and Global Labeling
+                                Reports to: Supervisor/Manager, Technical Publications
 
-                                Remote and/or in-office
-
-                                Full-Time | $65-85k
-
-                                (hiring company unable to sponsor Visas at this time)
-
-                                CFS Technology (a premier IT dedicated staffing solution in Portland, OR) is working with an established and growing company who is committed to developing exceptional integration technology and software solutions to meet the growing needs of their customers' business requirements.
-                                
+                                Primary Function of Position:
+                                Produce accurate, clearly presented, consistent instructions for use (IFU) for medical device robotic systems and instruments; receive basic instruction on day-to-day work and general instructions on new assignments; can be mentored by a more experienced writer; use professional concepts and skills; apply company policies and procedures to resolve a variety of issues.
                                 </p>
                                 <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/cfs-technology-29b68b2a/ui-ux-designer-aaddf34c" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/della-infotech-inc-5d403f0f/technical-writer-with-medical-device-or-life-science-environment-b809b711" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/the-get-smart-group-d7f31efc/graphic-designer-ebooks-print-infographics-production-art-04afe118" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/tentek-inc-decae4e7/technical-writer-ai-slack-project-ef5a4715" className="image">
                         <img src={pic10} alt="" />
                     </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Graphic Designer - Ebooks / Print / Infographics / Production Art</h3>
+                                <h3>Technical Writer (AI/Slack project)</h3>
                             </header>
-                            <p><h4>The Get Smart Group (Angels Camp, CA, USA)</h4><br />
-                               Compensation: <b>$17 to $25 Hourly (plus commission)</b><br />
-                               Benefits Offered: 401K, Medica, Vision<br />
-                               Employment Type: Part-Time<br />
+                            <p><h4>Tentek, Inc. (Los Angeles, CA, USA)</h4><br />
+                               Compensation: <b>$30 to $35 Hourly</b><br />
+                               Benefits Offered: 401K, Dental, Medical, Vision<br />
+                               Employment Type: Contractor<br />
                                
-                               The Get Smart Group is looking to grow our internal design department with the addition of a new remote designer. We are a digital marketing agency creating design output in the following areas:
-                               This position is for remote work, though our offices are based in Angels Camp, CA. Our entire team works remotely and we have people all across the US. We live by the deadline and need someone capable of producing quality work within our internal deadline structure.
-                             
+                           
+                            
+                            About Tentek, Inc.:
+                            TenTek has been in business since 1989, and is recognized as a leading staffing provider of tech professionals to a growing client base.
                              </p>
                                 <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/the-get-smart-group-d7f31efc/graphic-designer-ebooks-print-infographics-production-art-04afe118" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/tentek-inc-decae4e7/technical-writer-ai-slack-project-ef5a4715" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>

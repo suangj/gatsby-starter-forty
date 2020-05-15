@@ -52,9 +52,9 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/koren-riley-035d4da0/director-of-marketing-df6697b3" className="image"></a>
+                    <a href="https://www.ziprecruiter.com/jobs/koren-riley-035d4da0/director-of-marketing-df6697b3" className="image">
                         <img src={pic09} alt="" />
-                    </Link>
+                    </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
@@ -73,9 +73,9 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/mas-b93c59f9/marketing-manager-e60710c1" className="image"></a>
+                    <a href="https://www.ziprecruiter.com/jobs/mas-b93c59f9/marketing-manager-e60710c1" className="image">
                         <img src={pic10} alt="" />
-                    </Link>
+                    </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">

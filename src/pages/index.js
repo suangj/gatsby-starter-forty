@@ -53,7 +53,7 @@ class HomeIndex extends React.Component {
                                 <p>One of the most biggest career out there. High demand. A wide variety of Jobs <br />
                                    ranging from graphic design to web design, to UX and UI desig and a lot more.</p>
                             </header>
-                            <Link to="/job-list" className="link primary"></Link>
+                            <Link to="/designer-jobs" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">

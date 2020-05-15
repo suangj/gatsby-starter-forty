@@ -45,7 +45,7 @@ class HomeIndex extends React.Component {
                                    jobs wait for you. Can include anything from software engineering <br />
                                    to app development and web design.</p>
                             </header>
-                            <Link to="/job-list" className="link primary"></Link>
+                            <Link to="/developer-jobs.js" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">

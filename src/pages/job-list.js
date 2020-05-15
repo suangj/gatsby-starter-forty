@@ -27,9 +27,9 @@ const Landing = (props) => (
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/confidential-3e96db3e/part-time-marketing-specialist-6e71b747" className="image"></a>
+                    <a href="https://www.ziprecruiter.com/jobs/confidential-3e96db3e/part-time-marketing-specialist-6e71b747" className="image">
                         <img src={pic08} alt="" />
-                    </Link>
+                     </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">

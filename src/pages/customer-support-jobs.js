@@ -54,7 +54,7 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <a href=https://www.ziprecruiter.com/jobs/hostwinds-b2b7b749/web-hosting-customer-support-remote-e531766b"" className="image">
+                    <a href=https:"www.ziprecruiter.com/jobs/hostwinds-b2b7b749/web-hosting-customer-support-remote-e531766b" className="image">
                         <img src={pic09} alt="" />
                     </a>
                     <div className="content">

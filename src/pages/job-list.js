@@ -34,11 +34,21 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Orci maecenas</h3>
+                                <h3>Part Time Marketing Specialist (CONFIDENTIAL)</h3>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                            <p>
+                               <h4> Confidential (Sandy, UT, USA)<br />
+                               <p> Compensation <b>$18 to $25 Hourly</b><br />
+                                   Employment TypePart-Time<br />
+                                   Part Time: 8 hours per week (flexible)<br />
+
+                                   If you are looking for part time work to supplement your current full time job and desire the potential for an additional growth in your career, this may be an outstanding opportunity for you.
+                                   An established small business is seeking an expert online marketing specialist on a part time basis to assist the business owner with key marketing tasks for the business.
+                                   Key Experience: You must be an expert.
+                                   In order to assist us in our business efforts, you must possess at least 5 years of solid business experience working in SEO, PPC, Adwords, Google Analytics, Social Media marketing, email marketing, website content marketing, etc. You must be an expert in this field with demonstrable experience in the B2B marketspace.
+                               </p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><Link to="https://www.ziprecruiter.com/jobs/confidential-3e96db3e/part-time-marketing-specialist-6e71b747" className="button">Learn more</Link></li>
                             </ul>
                         </div>
                     </div>

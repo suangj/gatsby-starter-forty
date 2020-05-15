@@ -11,7 +11,7 @@ import pic10 from '../assets/images/pic10.jpg'
 const Landing = (props) => (
     <Layout>
         <Helmet>
-            <title>Online Marketing Jobs</title>
+            <title>Developer Jobs</title>
             <meta name="description" content="Landing Page" />
         </Helmet>
 

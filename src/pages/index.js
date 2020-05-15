@@ -62,7 +62,7 @@ class HomeIndex extends React.Component {
                                    with this career, also this is one of the best option if you're a traveler <br />
                                    and like to share their experience and a lot more of writing oportunities.</p>
                             </header>
-                            <Link to="/job-list" className="link primary"></Link>
+                            <Link to="/writer-jobs" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
@@ -71,7 +71,7 @@ class HomeIndex extends React.Component {
                                    laptop with internet conecction, chat and call software, and great <br /> 
                                    Customer Service.</p>
                             </header>
-                            <Link to="/job-list" className="link primary"></Link>
+                            <Link to="/customer-support-jobs" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
@@ -80,7 +80,7 @@ class HomeIndex extends React.Component {
                                    let you work from almost anywhere with a pretty flex work flow. <br />
                                    Jobs can vary from tracking inventory and shipment to plan creations.</p>
                             </header>
-                            <Link to="/job-list" className="link primary"></Link>
+                            <Link to="/data-entry-jobs" className="link primary"></Link>
                         </article>
                     </section>
                     <section id="two">

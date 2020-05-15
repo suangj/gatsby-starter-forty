@@ -37,7 +37,7 @@ const Landing = (props) => (
                                 <h3>Part Time Marketing Specialist (CONFIDENTIAL)</h3>
                             </header>
                             <p>
-                               <h4> Confidential (Sandy, UT, USA)<br />
+                               <h4> Confidential (Sandy, UT, USA)</h4><br />
                                <p> Compensation <b>$18 to $25 Hourly</b><br />
                                    Employment TypePart-Time<br />
                                    Part Time: 8 hours per week (flexible)<br />

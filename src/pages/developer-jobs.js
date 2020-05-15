@@ -35,7 +35,6 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3>Senior Angular Developer (REMOTE)(Twenty Bridge Staffing)</h3>
                             </header>
-                            <p>
                                <h4>Twenty Bridge Staffing (Jacksonville, FL, USA)</h4><br />
                                <p> Compensation <b>$100,000 to $125,000 Annually</b><br />
                                    Benefits Offered: 401K, Dental, Life, Medical, Vision<br />

@@ -73,23 +73,26 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/mas-b93c59f9/marketing-manager-e60710c1" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/revival-point-3f6ab1f9/email-marketing-specialist-position-remote-ft-892109c1" className="image">
                         <img src={pic10} alt="" />
                     </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Marketing Manager (MAS)</h3>
+                                <h3>Email Marketing Specialist Position (Remote, FT)</h3>
                             </header>
-                            <p><h4>MAS (Boca Raton, FL, USA)</h4><br />
-                               Compensation: <b>$60,000 to $65,000 Annually</b><br />
-                               Benefits Offered: 401K, Dental, Life, Medical, Vision<br />
+                            <p><h4>Revival Point (San Diego, CA, USA)</h4><br />
+                               Compensation: <b>$30,000 to $40,000 Annually</b><br />
+                               Benefits Offered: Medical<br />
                                Employment Type: Full-Time<br />
-                               Marketing Manager paying up to $65K for a large corporation in the Boca Raton area. This position will be responsible for managing all of the marketing efforts for the company nationwide.
+                                   
+                               This is a junior marketing position that is remote. We are open to unique situations, such as a student at the end of college, looking to work slightly modified hours.
 
-                               This position is DIRECT HIRE and is available IMMEDIATELY!</p>
+                               Our company generated $11M in health supplement sales in 2019 and we have big plans for 2020. We need your help to take things to reach our ambitious goals. (You’ll get more info on the company if the first part of your application is accepted).     
+                                   
+                            </p>
                                 <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/mas-b93c59f9/marketing-manager-e60710c1" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/revival-point-3f6ab1f9/email-marketing-specialist-position-remote-ft-892109c1" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>

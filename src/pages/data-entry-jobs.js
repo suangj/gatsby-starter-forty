@@ -60,7 +60,7 @@ const Landing = (props) => (
                                 <h3>Administrative Assistants</h3>
                             </header>
                             <p> <h4>	(Denver, CO, USA)</h4><br />
-                                Compensation <b>17.00 USD / Hourly</b><br />
+                                Compensation <b>17 USD / Hourly</b><br />
                                 Benefits Offered: <br />
                                 Employment Type: Freelance, Temporary<br />
                             
@@ -81,7 +81,7 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3></h3>
                             </header>
-                            <p><h4Chicago, IL, USA </h4><br />
+                            <p><h4>Chicago, IL, USA </h4><br />
                                Compensation: <b>40.00 USD / Annually</b><br />
                                Benefits Offered: <br />
                                Employment Type: 	Employee, Full-Time<br />

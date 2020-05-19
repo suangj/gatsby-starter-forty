@@ -27,71 +27,105 @@ const Landing = (props) => (
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <a href="https://www.flexjobs.com/publicjobs/payroll-clerk--1235683" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/resource-staffing-be53b381/data-entry-morning-shift-21056451?job_id=a74f4a846969ad68f33ad46a618036bc" className="image">
                         <img src={pic08} alt="" />
                      </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Payroll Clerk</h3>
+                                <h3>Data Entry Morning Shift</h3>
                             </header>
-                               <h4>(Joliet, IL, USA)</h4><br />
-                               <p> Compensation <b>	17.00 USD / Hourly</b><br />
+                               <h4>RESOURCE STAFFING in Houston, TX, USA</h4><br />
+                               <p> Compensation <b>$10 to $10.01 Hourly</b><br />
                                    Benefits Offered:<br />
-                                   Employment Type: 	Temporary, Short-Term<br />
+                                   Employment Type: Full-Time<br />
+    
                                    
-                                   Optional remote, 1-month temporary job for candidate who will be responsible for payroll for 200 employees, entering information regarding salary, hourly pay, shift differentials, and new codes regarding COVID19. 3-5 years' exp. req. $17-$25/hour.
-   
+                                   The Data Entry Image Reviewer processes images of vehicles that violate the EZ Tag lanes. This positon is based on typing speed and accuracy, located in the Northwest area off Beltway 8 and Clay Rd. 
+
+                                   Requirements: 
+
+                                     8,000 data entry strokes per hour,
+                                     Typing speed 35+ words per minute,
+                                     Punctual at all times,
+                                     90 day NO absence policy,
+                                     Ability to sit for long periods of time,
+                                     Must pass a drug screen test,
+                                     Clean criminal background-a background check will be performed
+
    
                                </p>
                                   <ul className="actions">
-                                <li><a href="https://www.flexjobs.com/publicjobs/payroll-clerk--1235683" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/resource-staffing-be53b381/data-entry-morning-shift-21056451?job_id=a74f4a846969ad68f33ad46a618036bc" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.flexjobs.com/publicjobs/administrative-assistants-1235244" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/branch-57-aa721117/data-entry-clerk-2nd-shift-bdb99524?job_id=9ccd15e8ec9cf9a072ca30315feacbb7" className="image">
                         <img src={pic09} alt="" />
                     </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Administrative Assistants</h3>
+                                <h3>Data Entry Clerk - 2nd shift</h3>
                             </header>
-                            <p> <h4>	(Denver, CO, USA)</h4><br />
-                                Compensation <b>17 USD / Hourly</b><br />
-                                Benefits Offered: <br />
-                                Employment Type: Freelance, Temporary<br />
-                            
-                               Seeking administrative assistants who can answer calls, schedule appointments, file documents, sort mail, & manage database information. Must have at least a year of recent exp. in a similar position. This is a temp/contract job. Teleworking is possible.
+                            <p> <h4>Branch 57 in Houston, TX, USA</h4><br />
+                                Compensation <b>$10 Hourly</b><br />
+                                Benefits Offered: Dental, Medical, Vision<br />
+                                Employment Type: Full-Time<br />
+    
+    
+                                 Northwest data center is looking for Data Entry clerks for stable long term, 2nd shift (4pm to 12:30am) $10/hour position. Ideal candidates must be have a flexible schedule, have superior data entry/ 10 key skills and great hand to eye coordination.
+
+                                 Responsibilities:
+
+                                   Will be viewing images and entering the data,
+                                   Must be fast and accurate,
+                                   Review and report discrepancies in data received,
+                                   Detail oriented and able to stay on task and have good hand to eye coordination,
+                                   There are cash bonuses for people that don't have any errors and are not absent and pass the required # of entries, which are paid every week,
+                                   Below schedules are open at the moment,
+                                   Mon-Friday-4pm to 12:30am- however must be open to work from 4pm to 2:30am, when needed    
+                    
+    
                             </p>
                                 <ul className="actions">
-                                <li><a href="https://www.flexjobs.com/publicjobs/administrative-assistants-1235244" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/branch-57-aa721117/data-entry-clerk-2nd-shift-bdb99524?job_id=9ccd15e8ec9cf9a072ca30315feacbb7" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.flexjobs.com/publicjobs/loan-processor-1235968" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/smarttrades-llc-4fcf6802/data-entry-clerk-abf364bc?job_id=242a24c5c3b76c7e06e1ea2e235b82e9" className="image">
                         <img src={pic10} alt="" />
                     </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3></h3>
+                                <h3>Data Entry Clerk</h3>
                             </header>
-                            <p><h4>Chicago, IL, USA </h4><br />
-                               Compensation: <b>40.00 USD / Annually</b><br />
-                               Benefits Offered: <br />
-                               Employment Type: 	Employee, Full-Time<br />
+                            <p><h4>Smarttrades LLC in Murray, UT, USA</h4><br />
+                               Compensation: <b>$13 to $13.50 Hourly</b><br />
+                               Benefits Offered: Dental, Life, Medical, Vision<br />
+                               Employment Type: Full-Time<br />
+                                   
+                                   
+                               We are seeking to add a Data Entry Clerk to our team! You will be responsible for accurate data entry, file maintenance, and record keeping.
+
+                                  Responsibilities:
+
+                                    Enter variety of data using current technology,
+                                    Prepare and sort documents for data entry,
+                                    Create and maintain logs for tracking purposes,
+                                    Review and enter data updates in the systems,
+                                    Review discrepancies in data received,
+                                    Advise supervisor of issues related to data.
                                
-                               
-                               A remote loan processor is needed to be responsible for the processing of commercial loans and preparing them for closing, verify customer documentation and information to identify consistencies and demonstrate knowledge of loan programs.
-                               
+  
                             </p>
                                 <ul className="actions">
-                                <li><a href="https://www.flexjobs.com/publicjobs/loan-processor-1235968" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/smarttrades-llc-4fcf6802/data-entry-clerk-abf364bc?job_id=242a24c5c3b76c7e06e1ea2e235b82e9" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>

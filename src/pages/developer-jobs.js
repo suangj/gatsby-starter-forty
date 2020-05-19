@@ -50,25 +50,30 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/rpc-solutions-llc-6b48ef89/salesforce-developer-remote-9714e5b9" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/saicon-consultants-inc-c66cc262/servicenow-developer-remote-1dbc15a8?job_id=7b6d7fc261fc192959e1cc3593f0bc7a" className="image">
                         <img src={pic09} alt="" />
                     </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Salesforce Developer (remote)</h3>
+                                <h3>ServiceNow Developer (Remote)</h3>
                             </header>
-                            <p> <h4>RPC Solutions Llc (Missouri Township, MO, USA)</h4><br />
-                                Compensation <b>$75 to $76 Hourly</b><br />
+                            <p> <h4>Saicon Consultants Inc (Tucker, GA, USA)</h4><br />
+                                Compensation <b>$70 Hourly</b><br />
                                 Benefits Offered: <br />
                                 Employment Type: Contractor<br />
-                                **Please note: This is a short-term contract**
-                                Positions are either remote or mostly remote
 
-                                We are seeking a Salesforce Developer to become an integral part of our team!
+                                    Saicon Consultants, Inc. (Saicon) is a certified WBE/MBE IT Consulting company founded in 1998 with 6 regional offices in the US and 3 offices internationally. Saicon offers IT Professional Services (Contract, Contract For Hire, Direct Hire / Perm Placement) to Commercial clients and Government agencies (Federal/State/Local) nationwide. Saicon is CMMI Level 3 appraised.<br />
+                                    Duration: 8+ Months
+                                    Description:
+                                    SACM Identification And Reconciliation Module Experience must
+                                    Minimum of 3 years of Service Integration and Management experience
+                                    Minimum of 5 years' experience in Service Level measurement methodologies
+                                    Minimum of 5 years' experience with reporting requirements analysis, documentation and solution design
+                                    Minimum of 3 years of experience with ServiceNow as advanced user
                                 </p>
                                 <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/rpc-solutions-llc-6b48ef89/salesforce-developer-remote-9714e5b9" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/saicon-consultants-inc-c66cc262/servicenow-developer-remote-1dbc15a8?job_id=7b6d7fc261fc192959e1cc3593f0bc7a" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>

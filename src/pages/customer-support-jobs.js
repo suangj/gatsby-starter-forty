@@ -27,28 +27,25 @@ const Landing = (props) => (
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/strategic-systems-7e45646b/technical-support-remote-7fb9c724" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/aerotek-b2fdf001/customer-service-representative-remote-24dc707f?job_id=9f1a412174786e4040913c69426827c1" className="image">
                         <img src={pic08} alt="" />
                      </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Technical Support - Remote</h3>
+                                <h3>Customer Service Representative (Remote)</h3>
                             </header>
-                               <h4>Strategic Systems (Indianapolis, IN, USA)</h4><br />
-                               <p> Compensation <b>$20 to $22 Hourly</b><br />
-                                   Benefits Offered:<br />
-                                   Employment Type: Contractor<br />
+                               <h4>Aerotek (Broomfield, CO, USA)</h4><br />
+                               <p> Compensation <b>$14 to $15 Hourly</b><br />
+                                   Benefits Offered: Dental, Medical, Vision<br />
+                                   Employment Type: Full-Time<br />
+                                       
+                                     Aerotek is hiring for Customer Service Representative 1 working with Deckers Brands. Deckers Brands is a large, collaborative, culture driven call center that supports UGG, Koolaburra, Teva, HOKA One One, and Sanuk. This Customer Care Representative 1 role is responsible for providing premium service and building relationships with our customers through effective telephone communication.  
                                    
-                                   Scope of work/responsibilities include doing Google/internet search on software’s end of life. Will be provided massive list of software and sub software to do search for end of life (when does version come to an end and no longer supported). 
 
-                                   Skillsets – Must be able to utilize Google/comfortable doing internet searches
-                                   Phone skills - May have to make phone calls to vendor of software if unable to find online.                    
-                                   No certifications needed - Someone coming straight from tech s chool; still in college to get exposure, etc. Position is full time during regular business hours.
-                              
                                </p>
                                   <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/strategic-systems-7e45646b/technical-support-remote-7fb9c724" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/aerotek-b2fdf001/customer-service-representative-remote-24dc707f?job_id=9f1a412174786e4040913c69426827c1" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>

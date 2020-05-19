@@ -27,28 +27,41 @@ const Landing = (props) => (
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/graham-staffing-347efe14/web-designer-remote-opportunity-623b395c" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/cybercoders-02e0c91b/revit-designer-0f0e611e?job_id=2b83f0f88434f2cb1d3e8e4d14bca4f6" className="image">
                         <img src={pic08} alt="" />
                      </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Web Designer - Remote Opportunity</h3>
+                                <h3>Revit Designer</h3>
                             </header>
-                               <h4>Graham Staffing (Alexandria, VA, USA)</h4><br />
-                               <p> Compensation <b>$17 to $18 Hourly</b><br />
+                               <h4>CyberCoders (King of Prussia, PA, USA)</h4><br />
+                               <p> Compensation <b>$60,000 to $75,000 Annually</b><br />
                                    Benefits Offered: <br />
-                                   Employment Type: Temporary<br />
+                                   Employment Type: Full-Time<br />
                                  
-                                 Looking for a candidate to assist us remotely on the migration of our PTAKit.org website into our PTA.org domain.
+                                       Revit Designer
+                                       We have been a leader in the construction and service of commercial pools and aquatic facilities for almost 50 years. We are currently looking to add a Revit Designer to our team to assist with 3D piping models and project engineering.
+                                       What You Will Be Doing
+                                      - 3D Modeling of piping systems for commercial aquatics projects
+                                      - Coordinating with internal team for layout that promotes ease of constructability
+                                      - Creating piping takeoffs
+                                      - Assisting with equipment and technical submittals
+                                      - Conducting site inspections
+                                      What You Need for this Position
+                                      - 1+ years of Revit experience
+                                      - Experience with piping systems is highly desirable
+                                      What's In It for You
+                                      - Competitive salary
+                                      - Full Benefits Package (Medical, Dental, Vision)
+                                      - Parental Leave
+                                      - Professional Development Assistance
+                                      - 401k Plan with company match
+                                      - Paid Time Off
 
-                                 This role requires proficiency with writing CSS and HTML code. Familiarity with CMS systems are a plus (we use Sitefinity). The job includes layout, editing and styling of content.
-
-
-                                 Need to be familiar with Microsoft Teams and Zoom for video conferencing
                                </p>
                                   <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/graham-staffing-347efe14/web-designer-remote-opportunity-623b395c" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/cybercoders-02e0c91b/revit-designer-0f0e611e?job_id=2b83f0f88434f2cb1d3e8e4d14bca4f6" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>

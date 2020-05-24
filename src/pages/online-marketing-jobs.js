@@ -73,26 +73,26 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/revival-point-3f6ab1f9/email-marketing-specialist-position-remote-ft-892109c1" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/kossoris-search-c83b2cae/research-marketing-coordinator-for-immediate-hire-8cb3b737?job_id=c9191404652d6415988bf6d124a8c38b" className="image">
                         <img src={pic10} alt="" />
                     </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Email Marketing Specialist Position (Remote, FT)</h3>
+                                <h3>Research & Marketing Coordinator for immediate hire</h3>
                             </header>
-                            <p><h4>Revival Point (San Diego, CA, USA)</h4><br />
-                               Compensation: <b>$30,000 to $40,000 Annually</b><br />
-                               Benefits Offered: Medical<br />
+                            <p><h4>Kossoris Search in Los Angeles, CA, USA</h4><br />
+                               Compensation: <b>$20 to $23 Hourly</b><br />
+                               Benefits Offered: 401k, Medical<br />
                                Employment Type: Full-Time<br />
-                                   
-                               This is a junior marketing position that is remote. We are open to unique situations, such as a student at the end of college, looking to work slightly modified hours.
+                               
+                                   This role & division is focuses on finding and identifying the lawyers (talent) for these law firms. It required a highly focused, extremely hard working individual with TREMENDOUS focus and drive. This person will focus all day on identifying, and emailing lawyer talent by using extensive research database, on-line data, and direction from our CEO. This requires many emails, sharp focus, and someone who strives for Results. Result-Orientated person. Top production will be rewarded.
 
-                               Our company generated $11M in health supplement sales in 2019 and we have big plans for 2020. We need your help to take things to reach our ambitious goals. (You’ll get more info on the company if the first part of your application is accepted).     
-                                   
+                                   We are regarded as one of the top Agencies in the high end legal market in the country, particularly in New York.
+              
                             </p>
                                 <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/revival-point-3f6ab1f9/email-marketing-specialist-position-remote-ft-892109c1" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/kossoris-search-c83b2cae/research-marketing-coordinator-for-immediate-hire-8cb3b737?job_id=c9191404652d6415988bf6d124a8c38b" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>

@@ -3,6 +3,10 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
+import pic13 from '../assets/images/pic13.webp'
+import pic14 from '../assets/images/pic14.webp'
+import pic15 from '../assets/images/pic15.webp'
+
 const Generic = (props) => (
     <Layout>
         <Helmet>
@@ -25,10 +29,9 @@ const Generic = (props) => (
                 </div>
             </section>
         </div>
-        
-       <script src="//www.verifyzone.net/cp/js/captcha.js.php?id=8eeb42e1fb543629f4a840d26dcd3598"></script>
-       
     </Layout>
+<script src="//www.verifyzone.net/cp/js/captcha.js.php?id=8eeb42e1fb543629f4a840d26dcd3598"></script>
+       
 )
 
 export default 

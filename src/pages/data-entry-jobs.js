@@ -62,36 +62,26 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/branch-57-aa721117/data-entry-clerk-2nd-shift-bdb99524?job_id=9ccd15e8ec9cf9a072ca30315feacbb7" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/conns-homeplus-4003e3d5/data-entry-specialist-loan-servicing-specialists-12f34942?job_id=faa0b872078c9349e0ae1cbbd8e9928f" className="image">
                         <img src={pic09} alt="" />
                     </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Data Entry Clerk - 2nd shift</h3>
+                                <h3>Data Entry Specialist - Loan Servicing Specialists</h3>
                             </header>
-                            <p> <h4>Branch 57 in Houston, TX, USA</h4><br />
-                                Compensation <b>$10 Hourly</b><br />
-                                Benefits Offered: Dental, Medical, Vision<br />
+                            <p> <h4>Conn's HomePlus in Houston, TX, USA</h4><br />
+                                Compensation <b>$11 to $13 Hourly</b><br />
+                                Benefits Offered: 401K, Dental, Life, Medical, Vision<br />
                                 Employment Type: Full-Time<br />
     
+                                       The Loan Servicing Specialist – Loan Operations responsibilities include, but are not limited to, providing support and solutions to customers regarding account maintenance for due date changes, payoff processing, credit and payment disputes, payment history requests, payoff verification, combining and refinance account requests, and extension processing. The associate reviews assigned accounts on a daily basis that are submitted from units within the organization to resolve account discrepancies and process account requests, 
+                                       insuring that customer records are accurately maintained during resolution of requests. In addition, the specialist will play a vital role in resolving customer concerns submitted through workflow queues from our customer service and collections team consistent with championing Conn’s dedication to delivering high quality customer service.
     
-                                 Northwest data center is looking for Data Entry clerks for stable long term, 2nd shift (4pm to 12:30am) $10/hour position. Ideal candidates must be have a flexible schedule, have superior data entry/ 10 key skills and great hand to eye coordination.
 
-                                 Responsibilities:
-
-                                   Will be viewing images and entering the data,
-                                   Must be fast and accurate,
-                                   Review and report discrepancies in data received,
-                                   Detail oriented and able to stay on task and have good hand to eye coordination,
-                                   There are cash bonuses for people that don't have any errors and are not absent and pass the required # of entries, which are paid every week,
-                                   Below schedules are open at the moment,
-                                   Mon-Friday-4pm to 12:30am- however must be open to work from 4pm to 2:30am, when needed    
-                    
-    
                             </p>
                                 <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/branch-57-aa721117/data-entry-clerk-2nd-shift-bdb99524?job_id=9ccd15e8ec9cf9a072ca30315feacbb7" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/conns-homeplus-4003e3d5/data-entry-specialist-loan-servicing-specialists-12f34942?job_id=faa0b872078c9349e0ae1cbbd8e9928f" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>

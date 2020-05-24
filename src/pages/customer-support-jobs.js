@@ -27,25 +27,27 @@ const Landing = (props) => (
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/aerotek-b2fdf001/customer-service-representative-remote-24dc707f?job_id=9f1a412174786e4040913c69426827c1" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/rentreporters-com-8a9414d4/customer-support-representative-remote-7a741eb6?job_id=43323de6e996d105a4b191d3fad28102" className="image">
                         <img src={pic08} alt="" />
                      </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Customer Service Representative (Remote)</h3>
+                                <h3>Customer Support Representative</h3>
                             </header>
-                               <h4>Aerotek (Broomfield, CO, USA)</h4><br />
+                               <h4>RentReportersin Los Angeles, CA, USA</h4><br />
                                <p> Compensation <b>$14 to $15 Hourly</b><br />
-                                   Benefits Offered: Dental, Medical, Vision<br />
+                                   Benefits Offered: 401K, Dental, Medical, Vision<br />
                                    Employment Type: Full-Time<br />
-                                       
-                                     Aerotek is hiring for Customer Service Representative 1 working with Deckers Brands. Deckers Brands is a large, collaborative, culture driven call center that supports UGG, Koolaburra, Teva, HOKA One One, and Sanuk. This Customer Care Representative 1 role is responsible for providing premium service and building relationships with our customers through effective telephone communication.  
-                                   
+    
+                                     Helping Renters Build Credit: Rent Reporters believes that 100 million renters and particularly the 40 million credit invisible should have a credit score that is reflective of their responsible rent payment history...giving them access to the financial options they deserve.
+
+                                     Pasadena, CA based RentReporters is seeking to continue growing its Customer Support Representative team.  
+      
 
                                </p>
                                   <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/aerotek-b2fdf001/customer-service-representative-remote-24dc707f?job_id=9f1a412174786e4040913c69426827c1" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/rentreporters-com-8a9414d4/customer-support-representative-remote-7a741eb6?job_id=43323de6e996d105a4b191d3fad28102" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>

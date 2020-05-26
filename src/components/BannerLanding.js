@@ -7,7 +7,7 @@ const BannerLanding = (props) => (
                 <h1>Remote Jobs Opportunities List</h1>
             </header>
             <div className="content">
-                <p>We have a varied selection of the best job offers just for you.</p>
+                <p>Our mission is to list the best special job opportunities just for you.</p>
             </div>
         </div>
     </section>

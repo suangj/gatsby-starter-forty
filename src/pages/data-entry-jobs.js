@@ -87,35 +87,42 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/smarttrades-llc-4fcf6802/data-entry-clerk-abf364bc?job_id=242a24c5c3b76c7e06e1ea2e235b82e9" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/medix-df62a2c9/data-entry-clerk-remote-0761a6cd?job_id=f6b3607ed804d1c3577be4cfa0444d54" className="image">
                         <img src={pic10} alt="" />
                     </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Data Entry Clerk</h3>
+                                <h3>Data Entry Clerk - Remote</h3>
                             </header>
-                            <p><h4>Smarttrades LLC in Murray, UT, USA</h4><br />
-                               Compensation: <b>$13 to $13.50 Hourly</b><br />
-                               Benefits Offered: Dental, Life, Medical, Vision<br />
-                               Employment Type: Full-Time<br />
-                                   
-                                   
-                               We are seeking to add a Data Entry Clerk to our team! You will be responsible for accurate data entry, file maintenance, and record keeping.
+                            <p><h4>Medix Denison, TX, USA</h4><br />
+                               Compensation: <b>$13.27 Hourly</b><br />
+                               Benefits Offered: 401K, Dental, Life, Medical, Vision<br />
+                               Employment Type: Contractor<br />
+                                
+                  The Provider Data Representative position is an entry-level position in the National Contracting Unit that supports the department with clerical work and data entry.
 
-                                  Responsibilities:
+Opening, assessing, scanning and entering incoming mail, email and faxes
 
-                                    Enter variety of data using current technology,
-                                    Prepare and sort documents for data entry,
-                                    Create and maintain logs for tracking purposes,
-                                    Review and enter data updates in the systems,
-                                    Review discrepancies in data received,
-                                    Advise supervisor of issues related to data.
+Outreach to Providers to obtain required documentation and additional information when needed
+
+Setting up new applications, entering notes
+
+Delivery of faxes via email
+
+Assigning scanned documents to the correct file
+
+Handling, distribution of emails
+
+Provide customer service and support to Dental providers, and other internal departments
+
+Performs other duties as assigned
+
                                
   
                             </p>
                                 <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/smarttrades-llc-4fcf6802/data-entry-clerk-abf364bc?job_id=242a24c5c3b76c7e06e1ea2e235b82e9" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/medix-df62a2c9/data-entry-clerk-remote-0761a6cd?job_id=f6b3607ed804d1c3577be4cfa0444d54" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>

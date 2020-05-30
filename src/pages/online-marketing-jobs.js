@@ -27,26 +27,27 @@ const Landing = (props) => (
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/confidential-3e96db3e/part-time-marketing-specialist-6e71b747" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/course-hero-174c8b26/content-developer-business-marketing-remote-contractor-4f34c03e?job_id=a0aceea6bb24448790e9c3888b450c0e" className="image">
                         <img src={pic08} alt="" />
                      </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Part Time Marketing Specialist (CONFIDENTIAL)</h3>
+                                <h3>Content Developer - Business Marketing (Remote Contractor)</h3>
                             </header>
-                            <p>
-                               <h4> Confidential (Sandy, UT, USA)</h4><br />
-                               <p> Compensation <b>$18 to $25 Hourly</b><br />
-                                   Employment Type: Part-Time<br />
-                                   Part Time: 8 hours per week (flexible)<br />
+                               <p><h4>Course Hero in Phoenix, AZ, USA</h4><br />
+                                   Compensation <b>$35 to $50 Hourly</b><br />
+                                   Employment Type: Contractor<br />
+                                   <br />
+    
+                                             Are you a college educator looking to leverage your pedagogic chops to help students learn? Course Hero is looking for a Business Marketing Content Developer to ensure that we are creating the highest quality solutions to questions. Our ideal candidate will have strong expertise in college-level business marketing. Candidates must be self-starters with a passion for teaching, an outstanding work ethic, and a positive attitude.
 
-                                   If you are looking for part time work to supplement your current full time job and desire the potential for an additional growth in your career, this may be an outstanding opportunity for you.
-                                   An established small business is seeking an expert online marketing specialist on a part time basis to assist the business owner with key marketing tasks for the business.
-                                   Key Experience: You must be an expert.
-                                   In order to assist us in our business efforts, you must possess at least 5 years of solid business experience working in SEO, PPC, Adwords, Google Analytics, Social Media marketing, email marketing, website content marketing, etc. You must be an expert in this field with demonstrable experience in the B2B marketspace.</p></p>
-                            <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/confidential-3e96db3e/part-time-marketing-specialist-6e71b747" className="button">Learn more</a></li>
+                                             Note: This is a month-to-month Monday - Friday remote contract position in the United States with flexible hours.</p>
+    
+    
+    
+                                <ul className="actions">
+                                <li><a href="https://www.ziprecruiter.com/jobs/course-hero-174c8b26/content-developer-business-marketing-remote-contractor-4f34c03e?job_id=a0aceea6bb24448790e9c3888b450c0e" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>
@@ -73,26 +74,26 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/kossoris-search-c83b2cae/research-marketing-coordinator-for-immediate-hire-8cb3b737?job_id=c9191404652d6415988bf6d124a8c38b" className="image">
+                    <a href="https://www.ziprecruiter.com/jobs/impact-business-group-808c7a73/product-owner-for-digital-marketing-remote-available-14525-582d8265?job_id=a7c06cbdd9f74cc848ab7a9506a262cc" className="image">
                         <img src={pic10} alt="" />
                     </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Research & Marketing Coordinator for immediate hire</h3>
+                                <h3>Product Owner for Digital Marketing (Remote Available)</h3>
                             </header>
-                            <p><h4>Kossoris Search in Los Angeles, CA, USA</h4><br />
-                               Compensation: <b>$20 to $23 Hourly</b><br />
-                               Benefits Offered: 401k, Medical<br />
-                               Employment Type: Full-Time<br />
-                               
-                                   This role & division is focuses on finding and identifying the lawyers (talent) for these law firms. It required a highly focused, extremely hard working individual with TREMENDOUS focus and drive. This person will focus all day on identifying, and emailing lawyer talent by using extensive research database, on-line data, and direction from our CEO. This requires many emails, sharp focus, and someone who strives for Results. Result-Orientated person. Top production will be rewarded.
+                            <p><h4>iMPact Business Group in Saint Joseph, MI, USA</h4><br />
+                               Compensation: <b>$50 to $60 Hourly</b><br />
+                               Benefits Offered: Dental, Medical, Vision<br />
+                               Employment Type: Contractor<br />
 
-                                   We are regarded as one of the top Agencies in the high end legal market in the country, particularly in New York.
-              
+                                 Our client, a Global Leader in the Consumer Appliance Industry has an immediate opening for a Digital Marketing Product Analyst for a 6 Month + Contract. Our client offers results-driven people a place where they can make a difference – every day! You will also have the opportunity to work with other like-minded, self-directed and detail oriented Top Talents in an extremely collaborative and professional environment.  
+                                   
+                                   
+                                   
                             </p>
                                 <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/kossoris-search-c83b2cae/research-marketing-coordinator-for-immediate-hire-8cb3b737?job_id=c9191404652d6415988bf6d124a8c38b" className="button">Learn more</a></li>
+                                <li><a href="https://www.ziprecruiter.com/jobs/impact-business-group-808c7a73/product-owner-for-digital-marketing-remote-available-14525-582d8265?job_id=a7c06cbdd9f74cc848ab7a9506a262cc" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>

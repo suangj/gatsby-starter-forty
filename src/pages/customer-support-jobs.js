@@ -85,24 +85,26 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/thrive-internet-marketing-agency-62063602/wordpress-technical-support-specialist-remote-503bb224" className="image">
+                    <a href="https://www.glassdoor.com/Job/us-customer-support-remote-jobs-SRCH_IL.0,2_IN1_KE3,26.htm?fromAge=1" className="image">
                         <img src={pic10} alt="" />
                     </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>WordPress Technical Support Specialist (Remote)</h3>
+                                <h3>Customer Service Rep</h3>
                             </header>
-                            <p><h4>Thrive Internet Marketing Agency (Phoenix, AZ, USA)</h4><br />
-                               Compensation: <b>$40,000 to $45,000 Annually</b><br />
-                               Benefits Offered: 401K, Life, Dental, Medical, Vision<br />
-                               Employment Type: Full-Time<br />
-                               
-                               Thrive Internet Marketing Agency is looking for an experienced Web Support team member with strong experience in WordPress that who can provide world-class support to our customers.
-                               We already have many happy clients and are adding more every day. Grow with us as we address the business marketing needs of clients across the United States and around the world.
-                            </p>
+                            <p><h4>Aerotek in Tucson, AZ, US</h4><br />
+                               Compensation: <b>$11-$15 Per Hour</b><br />
+                               Benefits Offered: Dental, Health<br />
+                               Employment Type: Part-Time<br />
+                                   
+                                   
+                                We are looking for Tier I and Tier II customer service representatives that will be providing support to Educational Administrators and Teachers all around the world. The agents will be answering inbound calls, chats, and email correspondences within a call center environment. Tier I customer service representatives will handle basic customer service questions while Tier II will be helping with technical support questions troubleshooting issues.   
+
+                                   
+                                   </p>
                                 <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/thrive-internet-marketing-agency-62063602/wordpress-technical-support-specialist-remote-503bb224" className="button">Learn more</a></li>
+                                <li><a href="https://www.glassdoor.com/Job/us-customer-support-remote-jobs-SRCH_IL.0,2_IN1_KE3,26.htm?fromAge=1" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>

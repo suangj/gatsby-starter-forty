@@ -27,24 +27,28 @@ const Landing = (props) => (
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <a href="https://www.ziprecruiter.com/jobs/twenty-bridge-staffing-5d48146f/senior-angular-developer-remote-60f38a92" className="image">
+                    <a href="https://www.glassdoor.com/Job/us-developer-remote-jobs-SRCH_IL.0,2_IN1_KO3,12_KE13,19.htm?fromAge=1" className="image">
                         <img src={pic08} alt="" />
                      </a>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Senior Angular Developer (REMOTE)(Twenty Bridge Staffing)</h3>
+                                <h3>Talend / ETL Developer (AWS)</h3>
                             </header>
-                               <h4>Twenty Bridge Staffing (Jacksonville, FL, USA)</h4><br />
-                               <p> Compensation <b>$100,000 to $125,000 Annually</b><br />
-                                   Benefits Offered: 401K, Dental, Life, Medical, Vision<br />
+                               <h4>Travelers in Hartford, CT, USA</h4><br />
+                               <p> Compensation <b>$57K-$91K Annually</b><br />
+                                   Benefits Offered: 401K, Health<br />
                                    Employment Type: Full-Time<br />
+                                       
+                                       
+                                          
+                                      Travelers is seeking a Software Engineer I to join our organization as we grow and transform our Technology landscape.
+                                      Individual will participate in the design, build and management of large-scale data structures and pipelines and efficient Extract/Load/Transform (ETL) workflows. Individual will complete intermediate end to end engineering tasks for specific system assignments including developing, analyzing, configuring, testing, debugging, troubleshooting, documenting, health monitoring/alerting, and implementing based on user or system design specifications, as well as participating in troubleshooting, conducting impact analysis and escalating appropriately.
                                  
-                                   Summary: Our team is currently looking for a seasoned Angular developer with strong communication and tech leadership skills. Your primary focus will be developing and supporting a responsive Angular application by creating components from wireframes and/or work with the team to debug features as issues arise. Keen attention to detail, problem-solving abilities, and a solid knowledge base are essential.
 
-                                   Location: Remote work with quarterly travel to Client HQ</p>
-                                  <ul className="actions">
-                                <li><a href="https://www.ziprecruiter.com/jobs/twenty-bridge-staffing-5d48146f/senior-angular-developer-remote-60f38a92" className="button">Learn more</a></li>
+                               </p>
+                                 <ul className="actions">
+                                <li><a href="https://www.glassdoor.com/Job/us-developer-remote-jobs-SRCH_IL.0,2_IN1_KO3,12_KE13,19.htm?fromAge=1" className="button">Learn more</a></li>
                             </ul>
                         </div>
                     </div>
